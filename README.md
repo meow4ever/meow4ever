@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=00E676&center=true&vCenter=true&width=850&lines=Reverse+Engineer+%26+Systems+Developer;Game+Hacking+%7C+UEFI+%7C+Native+Code;Turning+Closed+Software+Into+Open+Books;Low-Level+%7C+High-Precision;Made+in+Italy+%F0%9F%87%AE%F0%9F%87%B9" alt="Kovak — Reverse Engineer & Systems Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=00E676&center=true&vCenter=true&width=850&lines=Reverse+Engineer+%26+Systems+Developer;Binary+Analysis+%7C+UEFI+%7C+Native+Code;Turning+Closed+Software+Into+Open+Books;Low-Level+%7C+High-Precision;Made+in+Italy+%F0%9F%87%AE%F0%9F%87%B9" alt="Kovak — Reverse Engineer & Systems Developer" />
 
 <br/>
 <br/>
@@ -20,16 +20,16 @@ Name      :  Kovak
 Handle    :  meow4ever
 Role      :  Reverse Engineer · Systems Developer
 Location  :  Italy  🇮🇹
-Focus     :  Native code · Game internals · UEFI · Binary analysis
+Focus     :  Native code · Binary internals · UEFI · Malware analysis
 Stack     :  C++ / C# / Rust / Lua / Python / PowerShell
-Status    :  [ ACTIVE ] — Reading what wasn't meant to be read.
+Status    :  [ ACTIVE ] — Building. Breaking. Documenting.
 ```
 
 ---
 
 ## 🧭 About
 
-I take software apart. Firmware, game clients, anti-cheat, drivers, whatever ships as a black box —
+I take software apart. Firmware, drivers, protected binaries, whatever ships as a black box —
 I want the symbols, the call graph, and the reason it was written that way.
 
 Most of what I build lives below the abstraction layer: memory layouts, syscalls, hand-rolled parsers,
