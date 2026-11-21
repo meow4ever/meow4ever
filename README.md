@@ -133,8 +133,22 @@ I don't publish everything I find. What does get published is clean, documented,
 
 <div align="center">
 
-<a href="https://github.com/meow4ever"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/meow4ever?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=gitbook&logoColor=00E676" alt="Repositories" /></a>
+<a href="https://discord.com/users/917198328956084264"><img src="https://img.shields.io/badge/Discord-917198328956084264-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://t.me/overhaze"><img src="https://img.shields.io/badge/Telegram-%40overhaze-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://github.com/meow4ever"><img src="https://img.shields.io/badge/GitHub-meow4ever-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/>
+<br/>
+
+| Platform | Handle |
+| :------- | :----- |
+| **Discord** | `917198328956084264` |
+| **Telegram** | [`@overhaze`](https://t.me/overhaze) |
+| **GitHub** | [`@meow4ever`](https://github.com/meow4ever) |
+
+<br/>
+
+<sub>Discord ID is for direct add — copy the number, or click the badge above.</sub>
 
 <br/>
 <br/>
