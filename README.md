@@ -111,24 +111,6 @@ I don't publish everything I find. What does get published is clean, documented,
 
 </div>
 
-## 🔬 Selected Work
-
-| Project | What it is |
-| :--- | :--- |
-| **Nexora** | Native tooling around process instrumentation and runtime inspection. |
-| **shard-gui** | Dear ImGui desktop front-end for binary and memory workflows. |
-| **uefi-detect** | Firmware-level detection utilities for UEFI/DXE environments. |
-| **ju-menu** | Modular in-process interface framework. |
-| **strix** | Collection of analysis and automation scripts. |
-
-> Repos are opened up as they're cleaned. Everything published is self-contained and documented.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:008C45,50:F4F5F0,100:CD212A&height=3&width=100%" alt="" />
-
-</div>
-
 ## 📬 Contact
 
 <div align="center">
